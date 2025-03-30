@@ -1,0 +1,51 @@
+.header {
+  background: linear-gradient(90deg, #007bff, #0056b3); /* Gradient background */
+  color: white; /* Text color */
+  padding: 20px; /* Increased padding around the header */
+  text-align: center; /* Center align text */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Added shadow for depth */
+  border-radius: 5px;
+}
+
+.header h1 {
+  font-size: 2.5em; /* Increased font size for header title */
+  margin: 0; /* Remove default margin */
+}
+
+.header nav {
+  margin-top: 15px; /* Increased space above navigation */
+}
+
+.header a {
+  color: white; /* Link color */
+  text-decoration: none; /* Remove underline */
+  margin: 0 20px; /* Increased space between links */
+  font-weight: bold; /* Bold links */
+  padding: 5px 10px; /* Added padding for better click area */
+}
+
+.header a:hover {
+  text-decoration: underline; /* Underline on hover */
+  background-color: rgba(255, 255, 255, 0.2); /* Light background on hover */
+}
+
+
+.header h1 {
+  font-size: 2em; /* Header title font size */
+  margin: 5px; /* Remove default margin */
+}
+
+.header nav {
+  margin-top: 10px; /* Space above navigation */
+}
+
+.header a {
+  color: white; /* Link color */
+  text-decoration: none; /* Remove underline */
+  margin: 0 15px; /* Space between links */
+  font-weight: bold; /* Bold links */
+}
+
+.header a:hover {
+  text-decoration: underline; /* Underline on hover */
+}
